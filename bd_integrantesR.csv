@@ -1,0 +1,208 @@
+Nome do Integrante;ID;Salario - Cargo;Data de Nascimento;Idade;Sexo;Data de Contratação;Data de Saída;Status do Integrante;Departamento;Fonte Recrutamento;Registro de Performance ;Índice de Satisfação;Satisfacao
+Isis;A1304055947;5060 - Técnico de Produção I;21/05/1982;38;F;01/09/2015;;Ativo;dpt1;Site da Empresa;Acima do Esperado;5;Satisfeito
+Emanuel;A1109029366;3520 - Analista de RH I;21/12/1975;45;M;03/02/2015;;Ativo;dpt3;Indicação Funcionários;Dentro Espera.;3;Satisfeito
+Vinícius;A1501072124;4400 - Analista de RH II;17/04/1972;49;M;06/07/2017;;Ativo;dpt3;Site de Vagas;Dentro Espera.;2;Insatisfeito
+João Guilherme;A1302053339;3960 - Analista de RH II;17/10/1994;26;M;04/11/2018;;Ativo;dpt3;Site de Vagas;Dentro Espera.;4;Satisfeito
+Luna;A1204032927;3520 - Técnico de Produção I;04/08/1985;35;F;28/09/2017;;Ativo;dpt1;Feira de Contratação;Acima do Esperado;4;Satisfeito
+Rebeca;A1404066622;4400 - Técnico de Produção I;04/02/1979;42;F;04/12/2017;;Ativo;dpt1;Site de Vagas;Acima do Esperado;4;Satisfeito
+Maria;A1205033102;3300 - Técnico de Produção I;23/08/1990;30;F;18/08/2016;;Ativo;dpt1;Site de Vagas;Dentro Espera.;4;Satisfeito
+Catarina;A1308060366;3520 - Técnico de Produção I;08/01/1994;27;F;06/07/2017;;Ativo;dpt1;Feira de Contratação;Acima do Esperado;3;Satisfeito
+Luiz Miguel;A1407069280;5445 - Analista de RH III;25/08/1985;35;M;07/06/2019;;Ativo;dpt3;Indicação Funcionários;Acima do Esperado;4;Satisfeito
+Clara;A1209048696;4840 - Técnico de Produção I;11/02/1983;38;F;30/06/2016;;Ativo;dpt1;Site de Vagas;Abaixo do esperado;3;Satisfeito
+Ana Beatriz;A1006020020;5280 - Técnico de Produção I;15/03/1986;35;F;01/09/2015;;Ativo;dpt1;Site da Empresa;Dentro Espera.;5;Satisfeito
+Vitória;A1408069882;3520 - Técnico de Produção I;27/01/1996;25;F;18/08/2016;;Ativo;dpt1;Feira de Contratação;Dentro Espera.;3;Satisfeito
+Kaique;A1311062610;4620 - Analista de Logística II;31/01/1985;36;M;30/09/2014;;Ativo;dpt3;Site de Vagas;Dentro Espera.;3;Satisfeito
+Olívia;A1308060754;5060 - Analista de Logística II;10/07/1979;41;F;10/11/2016;;Ativo;dpt3;Feira de Contratação;Dentro Espera.;3;Satisfeito
+João Gabriel;A1011022887;3740 - Técnico de Produção I;27/01/1990;31;M;06/08/2016;;Ativo;dpt1;Indicação Funcionários;Acima do Esperado;5;Satisfeito
+Emilly;A1410071137;3520 - Técnico de Produção I;19/07/1973;47;F;19/02/2015;;Ativo;dpt1;Site de Vagas;Abaixo do esperado;2;Insatisfeito
+Maria Valentina;A1409070255;5280 - Técnico de Produção I;04/05/1972;49;F;18/02/2016;;Ativo;dpt1;Site da Empresa;Dentro Espera.;5;Satisfeito
+Levi;A1599991009;3300 - Técnico de Produção I;08/08/1982;38;M;06/08/2016;;Ativo;dpt1;Indicação Funcionários;Dentro Espera.;5;Satisfeito
+Larissa;A1202031618;3685 - Técnico de Produção I;09/07/1991;29;F;03/02/2015;;Ativo;dpt1;Site de Vagas;Dentro Espera.;5;Satisfeito
+Yuri;A1309061015;4180 - Técnico de Produção I;14/09/1990;30;M;29/03/2018;;Ativo;dpt1;Indicação Funcionários;Dentro Espera.;3;Satisfeito
+Enrico;A1106026579;3300 - Técnico de Produção I;19/05/1984;36;M;06/02/2015;;Ativo;dpt1;Site da Empresa;Dentro Espera.;3;Satisfeito
+Mirella;A1201031438;4400 - Técnico de Produção I;08/11/1977;43;F;11/05/2015;;Ativo;dpt1;Site de Vagas;Dentro Espera.;3;Satisfeito
+Thiago;A1304055987;3740 - Técnico de Produção I;11/09/1991;29;M;07/09/2015;;Ativo;dpt1;Site de Vagas;Dentro Espera.;5;Satisfeito
+Maria Flor;A1401064327;4400 - Técnico de Produção I;21/11/1982;38;F;30/05/2014;;Ativo;dpt1;Feira de Contratação;Dentro Espera.;4;Satisfeito
+Lívia;A1203032357;4180 - Técnico de Produção I;06/07/1989;31;F;06/08/2016;;Ativo;dpt1;Indicação Funcionários;Dentro Espera.;5;Satisfeito
+Ian;A1001735072;3740 - Técnico de Produção I;22/11/1986;34;M;10/05/2010;;Ativo;dpt1;Site de Vagas;Dentro Espera.;3;Satisfeito
+Ana Sophia;A710007555;3740 - Técnico de Produção I;11/05/1979;42;F;31/05/2017;;Ativo;dpt1;Site de Vagas;Dentro Espera.;4;Satisfeito
+Pietra;A1012023152;4840 - Técnico de Produção I;14/05/1988;33;F;16/02/2017;;Ativo;dpt1;Site de Vagas;Abaixo do esperado;3;Satisfeito
+Maria Vitória;A1211051232;3300 - Técnico de Produção I;16/08/1983;37;F;28/09/2017;;Ativo;dpt1;Feira de Contratação;Dentro Espera.;5;Satisfeito
+Maya;A1011022883;4620 - Técnico de Produção I;26/09/1993;27;F;01/07/2011;;Ativo;dpt1;Site da Empresa;Dentro Espera.;5;Satisfeito
+Laís;A1403066194;4840 - Técnico de Produção I;26/10/1975;45;F;03/04/2014;;Ativo;dpt1;Site de Vagas;Dentro Espera.;5;Satisfeito
+Ayla;A1305057282;4290 - Técnico de Produção I;30/11/1984;36;F;04/12/2017;;Ativo;dpt1;Site de Vagas;Dentro Espera.;4;Satisfeito
+Ana Lívia;A1001109612;3300 - Técnico de Produção I;10/05/1983;38;F;06/02/2015;;Ativo;dpt1;Site da Empresa;Dentro Espera.;3;Satisfeito
+Victor Hugo;A1406068241;4620 - Técnico de Produção I;08/02/1987;34;M;14/05/2015;;Ativo;dpt1;Site de Vagas;Dentro Espera.;3;Satisfeito
+Gabrielly;A1102024121;3300 - Técnico de Produção I;06/07/1989;31;F;04/01/2016;;Ativo;dpt1;Site da Empresa;Dentro Espera.;4;Satisfeito
+Carolina;A1302053362;4620 - Técnico de Produção I;06/10/1993;27;F;28/09/2017;;Ativo;dpt1;Feira de Contratação;Dentro Espera.;3;Satisfeito
+Maria Laura;A1407069061;3080 - Técnico de Produção I;14/08/1973;47;F;14/05/2015;;Ativo;dpt1;Site de Vagas;Dentro Espera.;5;Satisfeito
+Henry;A1101023679;3687 - Técnico de Produção I;18/07/1988;32;M;19/02/2015;;Ativo;dpt1;Site da Empresa;Dentro Espera.;4;Satisfeito
+Luiz Felipe;A1311063114;4400 - Técnico de Produção I;01/02/1988;33;M;30/03/2017;;Ativo;dpt1;Site da Empresa;Dentro Espera.;3;Satisfeito
+Maria Sophia;A1403066069;3465 - Técnico de Produção I;30/03/1982;39;F;30/04/2018;;Ativo;dpt1;Site da Empresa;Dentro Espera.;5;Satisfeito
+Ryan;A1007020403;4675 - Técnico de Produção I;30/05/1979;41;M;10/10/2017;;Ativo;dpt1;Site da Empresa;Dentro Espera.;5;Satisfeito
+Arthur Miguel;A1101023612;4620 - Técnico de Produção I;24/08/1983;37;M;30/03/2017;;Ativo;dpt1;Indicação Funcionários;Dentro Espera.;3;Satisfeito
+Fernanda;A1105026041;5280 - Técnico de Produção I;11/02/1988;33;F;15/05/2014;;Ativo;dpt1;Site da Empresa;Dentro Espera.;4;Satisfeito
+Analu;A1412071713;4180 - Técnico de Produção I;12/04/1969;52;F;31/05/2017;;Ativo;dpt1;Feira de Contratação;Dentro Espera.;5;Satisfeito
+Nathan;A1404066949;3520 - Técnico de Produção I;11/11/1981;39;M;29/09/2016;;Ativo;dpt1;Feira de Contratação;Acima do Esperado;2;Insatisfeito
+Pedro Lucas;A1401064562;3520 - Técnico de Produção I;18/06/1966;54;M;31/05/2017;;Ativo;dpt1;Indicação Funcionários;Dentro Espera.;3;Satisfeito
+Davi Miguel;A1106026896;4840 - Técnico de Produção I;13/03/1990;31;M;16/02/2017;;Ativo;dpt1;Feira de Contratação;Dentro Espera.;3;Satisfeito
+Raul;A1301052124;4840 - Técnico de Produção I;17/02/1988;33;M;29/09/2016;;Ativo;dpt1;Indicação Funcionários;Dentro Espera.;4;Satisfeito
+Louise;A1412071844;4840 - Técnico de Produção I;26/12/1963;53;F;18/08/2016;;Ativo;dpt1;Site da Empresa;Dentro Espera.;3;Satisfeito
+Heloise;A1012023295;4840 - Técnico de Produção I;30/05/1993;27;F;09/03/2014;;Ativo;dpt1;Site de Vagas;Dentro Espera.;5;Satisfeito
+Pedro Miguel;A706006285;3200 - Assistente Administrativo;14/11/1987;33;M;04/12/2017;;Ativo;dpt3;Site de Vagas;Dentro Espera.;4;Satisfeito
+Ana Vitória;A803009012;5060 - Técnico de Produção I;05/10/1991;29;F;19/02/2015;;Ativo;dpt1;Site de Vagas;Dentro Espera.;4;Satisfeito
+Ana Cecília;A1408069539;3740 - Técnico de Produção I;17/06/1997;23;F;10/11/2016;;Ativo;dpt1;Site de Vagas;Dentro Espera.;5;Satisfeito
+Luiz Henrique;A1002017900;4180 - Técnico de Produção I;31/03/1989;32;M;13/08/2015;;Ativo;dpt1;Site da Empresa;Dentro Espera.;4;Satisfeito
+Luan;A1304055683;3080 - Técnico de Produção I;10/10/1982;38;M;16/02/2017;;Ativo;dpt1;Feira de Contratação;Dentro Espera.;3;Satisfeito
+Ana Liz;A1209049259;3740 - Técnico de Produção I;06/07/1991;29;F;31/05/2017;;Ativo;dpt1;Site de Vagas;Dentro Espera.;4;Satisfeito
+Liz;A1307059944;3740 - Técnico de Produção I;22/09/1978;42;F;25/04/2013;;Ativo;dpt1;Site de Vagas;Dentro Espera.;3;Satisfeito
+Samuel;A1501071909;5390 - Técnico de Produção I;01/02/1970;51;F;10/11/2016;;Ativo;dpt1;Indicação Funcionários;Dentro Espera.;3;Satisfeito
+Rodrigo;A1104025414;3960 - Técnico de Produção I;17/04/1985;36;M;06/08/2016;;Ativo;dpt1;Feira de Contratação;Dentro Espera.;4;Satisfeito
+Ana Sophia S.;A1503072857;4620 - Técnico de Produção I;21/03/1971;50;F;29/09/2016;;Ativo;dpt1;Indicação Funcionários;Dentro Espera.;5;Satisfeito
+Pietra S.;A909015167;5280 - Técnico de Produção I;29/06/1992;28;F;30/06/2016;;Ativo;dpt1;Site de Vagas;Dentro Espera.;3;Satisfeito
+Ayla S.;A1111030244;3080 - Técnico de Produção I;24/08/1987;33;F;30/09/2014;;Ativo;dpt1;Indicação Funcionários;Dentro Espera.;4;Satisfeito
+Breno;A1409070522;4400 - Técnico de Produção I;05/10/1988;32;M;06/05/2014;;Ativo;dpt1;Site da Empresa;Acima do Esperado;5;Satisfeito
+Ana Lívia S.;A1208048062;3520 - Técnico de Produção I;31/01/1956;52;F;28/09/2017;;Ativo;dpt1;Site de Vagas;Dentro Espera.;4;Satisfeito
+Eduarda S.;A1311063172;4345 - Técnico de Produção I;02/10/1992;28;F;07/06/2019;;Ativo;dpt1;Site de Vagas;Dentro Espera.;5;Satisfeito
+Mariah S.;A1501072192;4180 - Técnico de Produção I;09/01/1995;26;F;29/03/2018;;Ativo;dpt1;Feira de Contratação;Dentro Espera.;3;Satisfeito
+Stella S.;A1405067064;5280 - Técnico de Produção I;22/03/1982;39;F;27/11/2014;;Ativo;dpt1;Indicação Funcionários;Dentro Espera.;4;Satisfeito
+Arthur Henrique;A1301052462;4180 - Técnico de Produção I;17/01/1981;40;M;29/09/2016;;Ativo;dpt1;Site da Empresa;Dentro Espera.;4;Satisfeito
+Gabrielly S.;A1109029256;4400 - Técnico de Produção I;21/09/1981;39;F;29/03/2018;;Ativo;dpt1;Site de Vagas;Dentro Espera.;4;Satisfeito
+Luiz Otávio;A1103024335;4840 - Técnico de Produção I;22/11/1984;36;M;16/02/2017;;Ativo;dpt1;Site da Empresa;Abaixo do esperado;3;Satisfeito
+Lucas Gabriel;A1201031310;4180 - Técnico de Produção I;09/07/1987;33;M;30/04/2018;;Ativo;dpt1;Indicação Funcionários;Dentro Espera.;5;Satisfeito
+Sophie S.;A1106026474;4400 - Técnico de Produção I;03/06/1990;30;F;06/05/2018;;Ativo;dpt1;Site de Vagas;Dentro Espera.;3;Satisfeito
+José;A1111030129;4840 - Técnico de Produção I;22/08/1988;32;M;06/08/2016;;Ativo;dpt1;Site de Vagas;Dentro Espera.;5;Satisfeito
+Sofia A;A1405067642;4840 - Técnico de Produção I;30/11/1978;42;F;27/11/2014;;Ativo;dpt1;Site de Vagas;Acima do Esperado;5;Satisfeito
+Francisco;A1411071212;3520 - Técnico de Produção I;28/09/1974;46;M;06/11/2014;;Ativo;dpt1;Feira de Contratação;Acima do Esperado;4;Satisfeito
+Maria Fernanda;A1403066020;3300 - Técnico de Produção I;04/03/1972;49;F;04/01/2016;;Ativo;dpt1;Feira de Contratação;Acima do Esperado;3,5;Satisfeito
+Aurora;A1410070998;4400 - Técnico de Produção I;05/06/1973;47;F;07/04/2019;;Ativo;dpt1;Site da Empresa;Abaixo do esperado;4;Satisfeito
+Ana Laura;A1212051409;4840 - Técnico de Produção I;01/11/1975;45;F;06/06/2012;;Ativo;dpt1;Feira de Contratação;Dentro Espera.;3;Satisfeito
+Ana;A1101023353;4400 - Técnico de Produção I;20/10/1980;40;F;15/02/2018;;Ativo;dpt1;Site de Vagas;Dentro Espera.;3;Satisfeito
+Erick;A1302053044;4620 - Técnico de Produção I;03/08/1982;38;M;04/12/2017;;Ativo;dpt1;Feira de Contratação;Dentro Espera.;5;Satisfeito
+Mirella S.;A1408069635;4400 - Técnico de Produção I;29/10/1974;46;F;10/11/2016;;Ativo;dpt1;Feira de Contratação;Dentro Espera.;5;Satisfeito
+Allana S.;A1312063675;5280 - Técnico de Produção I;09/09/1979;41;F;18/08/2016;;Ativo;dpt1;Feira de Contratação;Dentro Espera.;5;Satisfeito
+André;A1110029777;3740 - Técnico de Produção I;02/06/1984;36;M;06/08/2016;;Ativo;dpt1;Site da Empresa;Dentro Espera.;4;Satisfeito
+Pietra Conte;A807010161;3344 - Técnico de Produção I;01/10/1980;40;F;29/09/2016;;Ativo;dpt1;Site de Vagas;Dentro Espera.;5;Satisfeito
+Isabella;A1403065721;5400 - Analista Comercial I;13/05/1968;53;F;17/08/2017;;Ativo;dpt2;Site da Empresa;Dentro Espera.;5;Satisfeito
+Manuela;A1408069481;5400 - Analista Comercial I;12/05/1992;29;F;19/02/2015;;Ativo;dpt2;Site da Empresa;Abaixo do esperado;1;Insatisfeito
+Bernardo;A1306059197;4250 - Analista Comercial I;13/09/1993;27;M;17/08/2017;;Ativo;dpt2;Site de Vagas;Dentro Espera.;5;Satisfeito
+Heitor;A1204032843;4250 - Analista Comercial I;23/02/1974;47;M;02/07/2014;;Ativo;dpt2;Feira de Contratação;Dentro Espera.;5;Satisfeito
+Davi;A1411071481;5400 - Analista Comercial I;09/12/1959;52;M;04/12/2017;;Ativo;dpt2;Site de Vagas;Dentro Espera.;3;Satisfeito
+Théo;A1412071660;5400 - Analista Comercial I;26/12/1993;27;M;30/04/2015;;Ativo;dpt2;Site de Vagas;Dentro Espera.;3;Satisfeito
+Pedro;A1306057978;5500 - Analista Comercial I;10/02/1980;41;M;28/09/2017;;Ativo;dpt2;Site da Empresa;Abaixo do esperado;3;Satisfeito
+Gabriel;A812011761;5400 - Analista Comercial I;18/05/1987;34;M;30/04/2018;;Ativo;dpt2;Site de Vagas;Dentro Espera.;5;Satisfeito
+Heloísa;A1411071295;5350 - Analista Comercial I;04/12/1994;26;F;26/09/2013;;Ativo;dpt2;Feira de Contratação;Dentro Espera.;4;Satisfeito
+Luiza;A1312063714;7500 - Analista Comercial II;21/05/1996;24;F;06/05/2014;;Ativo;dpt2;Feira de Contratação;Dentro Espera.;3;Satisfeito
+Enzo;A1111030503;7500 - Analista Comercial II;06/11/1994;26;M;03/05/2015;;Ativo;dpt2;Site de Vagas;Dentro Espera.;4;Satisfeito
+Matheus;A1504073313;7500 - Analista Comercial II;05/07/1980;40;M;28/09/2017;;Ativo;dpt2;Indicação Funcionários;Dentro Espera.;5;Satisfeito
+Maria Luiza;A1409070567;8600 - Analista Comercial II;10/08/1993;27;F;30/09/2014;;Ativo;dpt2;Feira de Contratação;Acima do Esperado;5;Satisfeito
+Lucas;A1411071302;8600 - Analista Comercial II;26/08/1968;52;M;08/06/2014;;Ativo;dpt2;Site de Vagas;Dentro Espera.;3;Satisfeito
+Lorena;A1203032099;8600 - Analista Comercial II;21/09/1994;26;F;15/02/2018;;Ativo;dpt2;Site de Vagas;Dentro Espera.;5;Satisfeito
+Benjamin;A1203038888;8600 - Analista Comercial II;04/09/1979;41;M;04/12/2017;;Ativo;dpt2;Site da Empresa;Abaixo do esperado;2;Insatisfeito
+Nicolas;A1104025008;8000 - Analista Comercial II;25/11/1984;36;M;18/08/2016;;Ativo;dpt2;Site de Vagas;Dentro Espera.;5;Satisfeito
+Guilherme;A1209048771;8600 - Analista Comercial II;05/11/1975;45;M;14/05/2015;;Ativo;dpt2;Indicação Funcionários;Dentro Espera.;5;Satisfeito
+Rafael;A1209049326;8000 - Analista Comercial II;05/01/1989;32;M;07/06/2019;;Ativo;dpt2;Site de Vagas;Dentro Espera.;4;Satisfeito
+Lívia;A1111030684;8000 - Analista Comercial II;30/03/1994;27;F;06/08/2016;;Ativo;dpt2;Site de Vagas;Dentro Espera.;5;Satisfeito
+Giovanna;A1501072180;10000 - Analista Comercial III;04/11/1995;25;F;29/09/2016;;Ativo;dpt2;Site de Vagas;Dentro Espera.;3;Satisfeito
+Maria Eduarda;A1102024106;10500 - Analista Comercial III;28/08/1993;27;F;01/09/2015;;Ativo;dpt2;Site de Vagas;Dentro Espera.;5;Satisfeito
+Joaquim;A1502072711;11200 - Analista Comercial III;13/01/1973;48;M;31/08/2009;;Ativo;dpt2;Site da Empresa;Acima do Esperado;3;Satisfeito
+Beatriz;A1401064637;10250 - Analista Comercial III;04/07/1970;50;F;28/09/2017;;Ativo;dpt2;Site de Vagas;Dentro Espera.;3;Satisfeito
+Ana Clara;A1006020066;13200 - Diretor de Produção;17/03/1988;33;F;30/04/2012;;Ativo;dpt1;Feira de Contratação;Acima do Esperado;5;Satisfeito
+Melissa;A1009021646;13200 - Diretor Comercial;16/03/1971;50;F;04/05/2017;;Ativo;dpt2;Site da Empresa;Dentro Espera.;4;Satisfeito
+Antonella;A1001495124;17600 - Diretor Administrativo;20/09/1959;52;F;06/02/2015;;Ativo;dpt3;Site de Vagas;Dentro Espera.;3;Satisfeito
+João;A1501072311;11990 - Gerente de Produção;09/10/1973;47;M;07/01/2014;;Ativo;dpt1;Indicação Funcionários;Dentro Espera.;3;Satisfeito
+Antônio;A1110029990;12100 - Gerente de Produção;06/09/1988;32;M;27/01/2019;;Ativo;dpt1;Site de Vagas;Acima do Esperado;2,8;Insatisfeito
+Rafaela;A1409070147;11220 - Gerente de Produção;27/11/1978;42;F;17/09/2017;;Ativo;dpt1;Site de Vagas;Dentro Espera.;4;Satisfeito
+Vicente;A1307060077;11880 - Gerente de Produção;06/11/1986;34;M;05/02/2018;;Ativo;dpt1;Indicação Funcionários;Dentro Espera.;3;Satisfeito
+Maria Cecília;A1103024679;12100 - Gerente de Produção;25/10/1986;34;F;29/09/2016;;Ativo;dpt1;Site de Vagas;Acima do Esperado;3;Satisfeito
+Bento;A1107027351;11660 - Gerente de Produção;07/10/1986;34;M;16/08/2015;;Ativo;dpt1;Site de Vagas;Dentro Espera.;3;Satisfeito
+Marina;A1102024149;11440 - Gerente de Produção;28/09/1980;40;F;09/02/2015;;Ativo;dpt1;Indicação Funcionários;Dentro Espera.;5;Satisfeito
+Caio;A1000974650;11660 - Gerente de Produção;15/12/1980;40;M;19/07/2013;;Ativo;dpt1;Site da Empresa;Abaixo do esperado;2;Insatisfeito
+Lucas Gabriel;A1405067298;12100 - Gerente de Produção;27/03/1983;38;F;31/07/2012;;Ativo;dpt1;Site da Empresa;Dentro Espera.;4;Satisfeito
+Joana P.;A1011022820;5500 - Técnico de Produção II;01/02/1985;36;F;03/05/2015;;Ativo;dpt1;Indicação Funcionários;Dentro Espera.;4;Satisfeito
+Maria- da M.;A1306057810;5500 - Técnico de Produção II;08/08/1974;46;F;06/07/2017;;Ativo;dpt1;Feira de Contratação;Acima do Esperado;3;Satisfeito
+Gabriela da M.;A1103024843;5720 - Técnico de Produção II;01/10/1984;36;F;03/02/2015;;Ativo;dpt1;Site da Empresa;Dentro Espera.;3;Satisfeito
+Ana Laura da M.;A1001549006;5335 - Técnico de Produção II;24/05/1991;29;F;04/12/2017;;Ativo;dpt1;Feira de Contratação;Dentro Espera.;3;Satisfeito
+Marcelo R;A1404066711;5940 - Técnico de Produção II;16/08/1997;23;M;10/07/2014;;Ativo;dpt1;Feira de Contratação;Dentro Espera.;3;Satisfeito
+Ana Beatriz da M.;A1205033180;4840 - Técnico de Produção II;19/04/1990;31;F;28/09/2017;;Ativo;dpt1;Site de Vagas;Dentro Espera.;4;Satisfeito
+Olívia da M.;A1108028428;5940 - Técnico de Produção II;21/09/1983;37;F;06/07/2017;;Ativo;dpt1;Feira de Contratação;Dentro Espera.;5;Satisfeito
+Maria Fernanda da M.;A1106026433;5500 - Técnico de Produção II;02/11/1989;31;F;06/06/2019;;Ativo;dpt1;Indicação Funcionários;Dentro Espera.;5;Satisfeito
+Emilly da M.;A1001504432;5742 - Técnico de Produção II;27/03/1987;34;F;18/08/2016;;Ativo;dpt1;Site de Vagas;Acima do Esperado;4;Satisfeito
+Maria Valentina da M.;A1104025435;5806 - Técnico de Produção II;22/11/1990;30;F;10/10/2017;;Ativo;dpt1;Site de Vagas;Dentro Espera.;5;Satisfeito
+Samuel;A1001970770;4840 - Técnico de Produção II;28/10/1968;52;M;28/09/2017;;Ativo;dpt1;Site de Vagas;Acima do Esperado;3;Satisfeito
+Maria Helena da M.;A1303054329;5940 - Técnico de Produção II;16/04/1971;50;F;21/07/2019;;Ativo;dpt1;Indicação Funcionários;Acima do Esperado;3;Satisfeito
+Pedro Miguel G.;A1307059937;5280 - Técnico de Produção II;07/10/1993;27;M;10/11/2016;;Ativo;dpt1;Site de Vagas;Dentro Espera.;3;Satisfeito
+Luiz Henrique G.;A1405067565;4840 - Técnico de Produção II;17/03/1984;37;M;06/08/2016;;Ativo;dpt1;Feira de Contratação;Dentro Espera.;3;Satisfeito
+Luan B.;A1408069503;5720 - Técnico de Produção II;11/03/1981;40;M;01/09/2015;;Ativo;dpt1;Feira de Contratação;Dentro Espera.;4;Satisfeito
+Erick C.;A1106026462;6380 - Técnico de Produção II;25/04/1991;30;M;29/08/2013;;Ativo;dpt1;Site de Vagas;Dentro Espera.;3;Satisfeito
+Martin da Silva;A1301052449;5720 - Técnico de Produção II;18/08/1982;38;M;03/04/2014;;Ativo;dpt1;Feira de Contratação;Dentro Espera.;5;Satisfeito
+Maria Flor da M.;A1008020942;4950 - Técnico de Produção II;10/06/1991;29;F;06/05/2014;;Ativo;dpt1;Site da Empresa;Acima do Esperado;4;Satisfeito
+Allana da M.;A1406067957;5720 - Técnico de Produção II;19/05/1992;28;F;29/03/2018;;Ativo;dpt1;Site de Vagas;Dentro Espera.;5;Satisfeito
+Bruno M.;A1011022818;4840 - Técnico de Produção II;01/10/1981;39;M;17/08/2017;;Ativo;dpt1;Indicação Funcionários;Dentro Espera.;5;Satisfeito
+Rodrigo Z.;A1201031274;5500 - Técnico de Produção II;12/09/1984;36;M;10/07/2014;;Ativo;dpt1;Site de Vagas;Dentro Espera.;4;Satisfeito
+Mariana P.;A1108028351;5940 - Técnico de Produção II;10/08/1988;32;F;29/09/2016;;Ativo;dpt1;Indicação Funcionários;Dentro Espera.;5;Satisfeito
+Maria da Cruz;A1001103149;5500 - Técnico de Produção II;23/04/1975;46;F;12/05/2016;;Ativo;dpt1;Site da Empresa;Acima do Esperado;2,5;Insatisfeito
+Breno M.;A1012023010;5335 - Técnico de Produção II;04/11/1990;30;M;06/07/2017;;Ativo;dpt1;Indicação Funcionários;Dentro Espera.;4;Satisfeito
+Jeniffer S.;A1403066125;5940 - Técnico de Produção II;20/09/1995;25;F;03/04/2014;;Ativo;dpt1;Site da Empresa;Abaixo do esperado;3;Satisfeito
+Jazz;A1105025661;5280 - Técnico de Produção II;24/08/1994;26;F;06/07/2017;;Ativo;dpt1;Site de Vagas;Abaixo do esperado;1;Insatisfeito
+Kauê M.;A1301052436;6380 - Técnico de Produção II;11/01/1979;42;M;12/05/2016;;Ativo;dpt1;Feira de Contratação;Dentro Espera.;5;Satisfeito
+Enzo Miguel M.;A1101023457;4840 - Técnico de Produção II;26/07/1988;32;M;28/09/2017;;Ativo;dpt1;Indicação Funcionários;Dentro Espera.;3;Satisfeito
+Eliana C.;A1402065085;5280 - Técnico de Produção II;25/09/1992;28;F;16/02/2017;;Ativo;dpt1;Site de Vagas;Dentro Espera.;4;Satisfeito
+Marta J.;A1103024924;6160 - Técnico de Produção II;04/07/1997;23;F;05/05/2018;;Ativo;dpt1;Feira de Contratação;Dentro Espera.;3;Satisfeito
+Leticia M.;A1110029623;5060 - Técnico de Produção II;24/08/1981;39;F;05/08/2019;;Ativo;dpt1;Indicação Funcionários;Dentro Espera.;3;Satisfeito
+Alice R.;A1402065303;11880 - Gerente Comercial;18/04/1995;26;F;04/05/2017;;Ativo;dpt2;Site de Vagas;Dentro Espera.;4;Satisfeito
+Samuel;A1499902910;12320 - Gerente Comercial;15/08/1989;31;M;17/05/2017;;Ativo;dpt2;Site de Vagas;Abaixo do esperado;3;Satisfeito
+Tomás M.;A1102024115;12100 - Gerente Administrativo;05/10/1989;31;M;01/05/2019;;Ativo;dpt3;Site de Vagas;Dentro Espera.;4;Satisfeito
+Alice;A1103024456;6270 - Contador I;22/11/1992;28;F;27/10/2011;;Ativo;dpt3;Feira de Contratação;Dentro Espera.;2;Insatisfeito
+Miguel;A1106026572;5060 - Contador I;25/04/1989;32;M;31/05/2017;;Ativo;dpt3;Site de Vagas;Dentro Espera.;4;Satisfeito
+Arthur;A1302053333;6380 - Contador I;08/01/1991;30;M;28/09/2017;;Ativo;dpt3;Site de Vagas;Dentro Espera.;5;Satisfeito
+Helena;A1307059817;3643 - Assistente Administrativo;18/05/1993;27;F;04/01/2018;;Ativo;dpt3;Site de Vagas;Dentro Espera.;3;Satisfeito
+Maria Clara;A1009919940;7500 - Analista de BI;04/12/1985;35;F;09/02/2019;;Ativo;dpt4;Site de Vagas;Dentro Espera.;4;Satisfeito
+Samuel;A1009919980;8000 - Analista de BI;07/04/1988;33;M;14/02/2019;;Ativo;dpt4;Site de Vagas;Dentro Espera.;5;Satisfeito
+Enzo Gabriel;A1009919990;7500 - Analista de BI;22/10/1992;28;M;20/04/2019;;Ativo;dpt4;Site de Vagas;Dentro Espera.;3;Satisfeito
+João Miguel;A1009920000;7500 - Analista de BI;29/06/1994;26;M;20/04/2019;;Ativo;dpt4;Site de Vagas;Dentro Espera.;5;Satisfeito
+Henrique;A1009919920;11150 - Gerente de TI;01/09/1977;43;M;09/06/2019;;Ativo;dpt4;Feira de Contratação;Dentro Espera.;5;Satisfeito
+Cecília;A1112030816;14300 - Diretor de TI;28/08/1984;36;F;03/10/2013;;Ativo;dpt4;Indicação Funcionários;Acima do Esperado;5;Satisfeito
+Eloá;A1009919950;12100 - Analista de Dados;20/11/1977;43;F;31/12/2018;;Ativo;dpt4;Site de Vagas;Dentro Espera.;3;Satisfeito
+Isadora;A1105025718;7480 - Analista de Suporte de TI;19/02/1989;32;F;29/03/2018;;Ativo;dpt4;Site de Vagas;Dentro Espera.;5;Satisfeito
+Fernando;A1003018246;8800 - Analista de Suporte de TI;10/07/1991;29;F;30/04/2018;;Ativo;dpt4;Site de Vagas;Dentro Espera.;3;Satisfeito
+Murilo;A1406068403;7810 - Analista de Dados;06/04/1993;28;M;10/10/2017;;Ativo;dpt4;Feira de Contratação;Acima do Esperado;4;Satisfeito
+Emanuelly;A1108027853;9405 - Analista de Dados;15/09/1989;31;F;10/10/2017;;Ativo;dpt4;Indicação Funcionários;Acima do Esperado;5;Satisfeito
+Ana Júlia;A1407068885;8701 - Analista de Dados;09/11/1986;34;F;15/02/2018;;Ativo;dpt4;Indicação Funcionários;Dentro Espera.;5;Satisfeito
+Pietro;A1203032255;9284 - Analista de Dados;25/08/1991;29;M;29/03/2018;;Ativo;dpt4;Site de Vagas;Dentro Espera.;3;Satisfeito
+Felipe;A808010278;6644 - Analista de Dados;01/08/1975;45;M;30/04/2018;;Ativo;dpt4;Indicação Funcionários;Dentro Espera.;3;Satisfeito
+Ana Luiza;A1110029732;6908 - Analista de Dados;23/02/1984;37;F;29/03/2018;;Ativo;dpt4;Indicação Funcionários;Dentro Espera.;3;Satisfeito
+João Pedro;A1192991000;14300 - Gerente de TI;06/05/1985;36;M;14/04/2014;;Ativo;dpt4;Feira de Contratação;Acima do Esperado;5;Satisfeito
+Isaac;A1106026933;13640 - Gerente de TI;03/05/1978;43;M;20/01/2016;;Ativo;dpt4;Feira de Contratação;Dentro Espera.;5;Satisfeito
+Daniel;A1011022863;13860 - Gerente de TI;09/05/1991;30;M;14/02/2015;;Ativo;dpt4;Site de Vagas;Abaixo do esperado;3;Satisfeito
+Anthony;A1101023754;14080 - Gerente de TI;06/09/1975;45;M;30/04/2017;;Ativo;dpt4;Feira de Contratação;Acima do Esperado;5;Satisfeito
+Leonardo;A1301052902;6378 - Analista de Suporte de TI;08/05/1990;31;M;09/05/2015;;Ativo;dpt4;Site de Vagas;Dentro Espera.;3;Satisfeito
+Yasmin;A1501072093;6908 - Analista de Suporte de TI;06/06/1973;47;F;04/01/2013;;Ativo;dpt4;Indicação Funcionários;Dentro Espera.;4;Satisfeito
+Maria Alice;A602000312;5720 - Analista de Suporte de TI;09/05/1993;28;F;20/01/2014;;Ativo;dpt4;Feira de Contratação;Acima do Esperado;4;Satisfeito
+Isabelly;A1203032263;6048 - Analista de Suporte de TI;02/12/1978;42;F;05/10/2014;;Ativo;dpt4;Feira de Contratação;Dentro Espera.;3;Satisfeito
+Davi Lucca;A1212052023;9900 - Analista de Suporte de TI;30/06/1993;27;M;30/04/2018;;Ativo;dpt4;Site de Vagas;Dentro Espera.;5;Satisfeito
+Bryan;A1102024173;9240 - Analista de Suporte de TI;23/11/1994;26;M;29/03/2018;;Ativo;dpt4;Feira de Contratação;Dentro Espera.;5;Satisfeito
+Lavínia;A1101023540;8140 - Analista de Suporte de TI;17/07/1993;27;F;30/04/2018;;Ativo;dpt4;Indicação Funcionários;Dentro Espera.;4;Satisfeito
+Francisco;A1988299991;8580 - Analista de Suporte de TI;15/04/1986;35;F;30/04/2018;;Ativo;dpt4;Indicação Funcionários;Dentro Espera.;4;Satisfeito
+Eduardo;A1012023013;9460 - Engenheiro de Software;16/06/1992;28;M;29/03/2018;;Ativo;dpt4;Site de Vagas;Abaixo do esperado;3;Satisfeito
+Sarah;A1001956578;5940 - Engenheiro de Software;02/04/1984;37;F;15/02/2018;;Ativo;dpt4;Site de Vagas;Dentro Espera.;3;Satisfeito
+Elisa;A906014183;10340 - Engenheiro de Software;13/04/1986;35;F;29/09/2017;;Ativo;dpt4;Indicação Funcionários;Dentro Espera.;3;Satisfeito
+Victor;A1411071506;10802 - Engenheiro de Software;30/03/1974;47;M;29/03/2018;;Ativo;dpt4;Indicação Funcionários;Dentro Espera.;4;Satisfeito
+Cristiane;A1009919930;10000 - Analista de BI;12/06/1992;28;F;09/02/2019;;Ativo;dpt4;Site de Vagas;Dentro Espera.;5;Satisfeito
+Luiz Otávio M.;A1009919960;10500 - Analista de BI;24/04/1975;46;M;01/02/2019;;Ativo;dpt4;Site de Vagas;Dentro Espera.;3;Satisfeito
+Carlos Eduardo M.;A1009919970;10500 - Analista de BI;06/08/1986;34;M;14/02/2019;;Ativo;dpt4;Site de Vagas;Dentro Espera.;4;Satisfeito
+Cristiani;A1107027358;10472 - Engenheiro de Software;22/05/1984;36;F;10/10/2017;;Ativo;dpt4;Indicação Funcionários;Dentro Espera.;3;Satisfeito
+Cristina C.;A1101023577;12320 - Engenheiro de Software;02/05/1992;29;F;10/11/2016;;Ativo;dpt4;Site de Vagas;Dentro Espera.;4;Satisfeito
+Celia B.;A1203032498;12566 - Engenheiro de Software;05/05/1984;37;F;01/09/2015;;Ativo;dpt4;Site de Vagas;Dentro Espera.;5;Satisfeito
+Keity C.;A1303054625;12212 - Engenheiro de Software;09/07/1992;28;F;10/11/2016;;Ativo;dpt4;Site de Vagas;Dentro Espera.;5;Satisfeito
+Natasha P.;A1012023185;10835 - Engenheiro de Software;23/07/1991;29;F;11/05/2015;;Ativo;dpt4;Site de Vagas;Dentro Espera.;3;Satisfeito
+José M.;A1201031324;10560 - Engenheiro de Software;03/06/1988;32;M;06/07/2017;;Ativo;dpt4;Site da Empresa;Acima do Esperado;5;Satisfeito
+Marcelo H.;A1001644719;5940 - Gerente de TI;21/11/1971;49;M;14/08/2014;;Ativo;dpt4;Site de Vagas;Dentro Espera.;3;Satisfeito
+Rovena Souza;A1201031308;7689 - Contador II;14/04/1984;37;F;30/04/2012;;Ativo;dpt3;Feira de Contratação;Dentro Espera.;3;Satisfeito
+Ingrid G.;A1307060188;7689 - Contador II;02/04/1992;29;F;15/02/2018;;Ativo;dpt3;Feira de Contratação;Dentro Espera.;4;Satisfeito
+Ernilda J.;A1010022337;13486 - Gerente de TI;05/06/1991;29;F;30/06/2019;;Ativo;dpt4;Indicação Funcionários;Dentro Espera.;5;Satisfeito
+Leticia Barbosa;A1411071312;11902 - Engenheiro de Software;16/01/1957;54;F;10/10/2017;;Ativo;dpt4;Indicação Funcionários;Dentro Espera.;5;Satisfeito
+Bernardo S.;A1108028108;12364 - Engenheiro de Software;22/04/1991;30;M;10/10/2017;;Ativo;dpt4;Indicação Funcionários;Dentro Espera.;5;Satisfeito
+Marcos de F.;A904013591;11836 - Engenheiro de Software;31/08/1988;32;M;30/06/2019;;Ativo;dpt4;Feira de Contratação;Dentro Espera.;4;Satisfeito
+Mario Andradde;A1308060959;11660 - Engenheiro de Software;08/09/1970;50;M;10/10/2017;;Ativo;dpt4;Indicação Funcionários;Dentro Espera.;3;Satisfeito
+Jessica Almeida;A1301052347;12144 - Engenheiro de Software;04/02/1983;38;F;29/03/2018;;Ativo;dpt4;Indicação Funcionários;Dentro Espera.;4;Satisfeito
